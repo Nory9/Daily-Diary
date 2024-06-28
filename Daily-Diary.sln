@@ -5,6 +5,11 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daily-Diary", "Daily-Diary\Daily-Diary.csproj", "{6E074F14-BBD7-48E7-8D7A-DF395970DB10}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6210FCA7-04CE-46FA-80D2-1FCAE58D9023}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\mydiary.txt = ..\..\..\Downloads\mydiary.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
