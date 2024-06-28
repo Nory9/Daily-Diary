@@ -7,7 +7,7 @@ using System.IO;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Daily_Diary
 {
-    public class DailyDiary
+    public class Diary
     {
         Entry entry = new Entry();
         string path = "../../../mydiary.txt";

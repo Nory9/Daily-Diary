@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("Hello, World!");
-            DailyDiary daily = new DailyDiary();
+            Diary daily = new Diary();
             // daily.read_Diary();
             // daily.Write_Diary();
             //daily.Read_Diary();
